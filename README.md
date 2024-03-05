@@ -3,11 +3,11 @@
 This repository is home to my updated resume, along with the current resume template it is based on. It is written in LaTEX for better formatting, but the final document is available as a PDF.
 
 
->> **To edit the files:**
->> - Open a text editor that supports LaTEX, such as Overleaf or Adobe Dreamweaver
->> - Create a new project that includes both `resume.tex` and `header.tex`
->>- Edit the files with your own information
->>- Export to PDF!
+> **To edit the files:**
+> - Open a text editor that supports LaTEX, such as Overleaf or Adobe Dreamweaver
+> - Create a new project that includes both `resume.tex` and `header.tex`
+>- Edit the files with your own information
+>- Export to PDF!
 
 # Resume Content
 
